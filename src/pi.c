@@ -10,7 +10,6 @@ int main()
 	printf("\n here is ur amount lah \n %lf", der );
 	printf("\n we used dis pi ar %lf" , pi);
 	getchar();
-	return(0);
 	
 }
 double fldpi()
