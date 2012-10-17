@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
-double pi;
-double amount;
-double der;
-double fldpi();
+double pi, amount, der, fldpi();
 int main()
 {
 	printf("so u wan diametr usin pi ar pls entr circum\n");
@@ -16,7 +13,6 @@ int main()
 	return(0);
 	
 }
-
 double fldpi()
 {
     double pi;
