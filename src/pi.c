@@ -12,7 +12,7 @@ int main()
 	printf("\n we used dis pi ar %lf \n" , pi);
 	printf("enter any letter to continue\n");
 	getchar();
-	
+	return(0);
 }
 double fldpi()
 {
