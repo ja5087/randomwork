@@ -1,5 +1,5 @@
 #include <stdio.h>
-int fib = 0, fib2 = 1, index1 = 0, sum = 0, i, n = 5;
+int fib = 0, fib2 = 1, index1 = 0, sum = 0;
 
 int main()
 {
